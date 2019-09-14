@@ -10,3 +10,6 @@
 [submodule "knot_capsule"]
 	path = knot_capsule
 	url = https://github.com/JamieDawson/knot_capsule
+[submodule "drinkypedia_fixes"]
+	path = drinkypedia_fixes
+	url = https://github.com/JamieDawson/drinkypedia_fixes
