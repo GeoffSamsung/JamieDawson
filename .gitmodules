@@ -16,3 +16,6 @@
 [submodule "awesome_dog_bixby"]
 	path = awesome_dog_bixby
 	url = https://github.com/JamieDawson/awesome_dog_bixby
+[submodule "San_Fran_Cheap_Bixby"]
+	path = San_Fran_Cheap_Bixby
+	url = https://github.com/JamieDawson/San_Fran_Cheap_Bixby
