@@ -19,3 +19,6 @@
 [submodule "San_Fran_Cheap_Bixby"]
 	path = San_Fran_Cheap_Bixby
 	url = https://github.com/JamieDawson/San_Fran_Cheap_Bixby
+[submodule "color_finder"]
+	path = color_finder
+	url = https://github.com/JamieDawson/color_finder
