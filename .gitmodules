@@ -13,3 +13,6 @@
 [submodule "drinkypedia_fixes"]
 	path = drinkypedia_fixes
 	url = https://github.com/JamieDawson/drinkypedia_fixes
+[submodule "awesome_dog_bixby"]
+	path = awesome_dog_bixby
+	url = https://github.com/JamieDawson/awesome_dog_bixby
