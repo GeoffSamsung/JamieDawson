@@ -7,3 +7,6 @@
 [submodule "esports_bixby_capsule"]
 	path = esports_bixby_capsule
 	url = https://github.com/JamieDawson/esports_bixby_capsule
+[submodule "knot_capsule"]
+	path = knot_capsule
+	url = https://github.com/JamieDawson/knot_capsule
